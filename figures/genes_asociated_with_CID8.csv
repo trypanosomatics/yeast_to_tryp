@@ -1,0 +1,17 @@
+gene_name_sce,gene_product_sce,gene_name_tcr,gene_product_tcr,omcl
+YNR030W,"dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichol alpha-1,6-mannosyltransferase ",TcCLB.511621.60,"dolichyl-P-Man:GDP-Man7GlcNAc2-PP-dolichyl alpha-1,6-mannosyltransferase, putative",OG5_129165
+YNR030W,"dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichol alpha-1,6-mannosyltransferase ",TcCLB.509317.50,"dolichyl-P-Man:GDP-Man7GlcNAc2-PP-dolichyl alpha-1,6-mannosyltransferase, putative",OG5_129165
+YNL298W,Cla4p ,TcCLB.510733.10,"p21-activated kinase 3, putative",OG5_127124
+YNL298W,Cla4p ,TcCLB.509551.10,"STE/STE20 serine/threonine-protein kinase, putative",OG5_127124
+YHR030C,mitogen-activated serine/threonine-protein kinase SLT2 ,TcCLB.511837.70,"mitogen-activated protein kinase 11, putative",OG5_126781
+YHR030C,mitogen-activated serine/threonine-protein kinase SLT2 ,TcCLB.511299.70,"mitogen activated protein kinase 2, putative",OG5_126781
+YHR030C,mitogen-activated serine/threonine-protein kinase SLT2 ,TcCLB.510123.20,"mitogen-activated protein kinase 11, putative",OG5_126781
+YHR030C,mitogen-activated serine/threonine-protein kinase SLT2 ,TcCLB.506483.69,"mitogen activated protein kinase 4, putative",OG5_126781
+YEL061C,Cin8p,TcCLB.506503.80,"kinesin, putative",OG5_145177
+YEL061C,Cin8p,TcCLB.511293.60,"kinesin, putative",OG5_145177
+YML094W,Gim5p,TcCLB.511815.60,"prefoldin, putative",OG5_127820
+YML094W,Gim5p,TcCLB.506859.90,"prefoldin, putative",OG5_127820
+YDL134C,phosphoprotein phosphatase 2A catalytic subunit PPH21 ,TcCLB.509453.50,serine/threonine-protein phosphatase,OG5_127141
+YDL134C,phosphoprotein phosphatase 2A catalytic subunit PPH21 ,TcCLB.511881.20,serine/threonine-protein phosphatase,OG5_127141
+YLR113W,mitogen-activated protein kinase HOG1 ,TcCLB.509475.10,"mitogen-activated protein kinase 3, putative",OG5_128610
+YLR113W,mitogen-activated protein kinase HOG1 ,TcCLB.509553.60,"mitogen-activated protein kinase 3, putative",OG5_128610

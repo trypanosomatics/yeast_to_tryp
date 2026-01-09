@@ -1,0 +1,84 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  New hit compounds against Trypanosoma cruzi derived from
+  mining yeast chemogenomic profiling data
+message: >-
+  If you use the compiled data, software and other materials
+  in this repository, please cite this paper.
+type: software
+authors:
+  - given-names: Mercedes
+    family-names: Didier Garnham
+    email: mdidiergarnham@iib.unsam.edu.ar
+    affiliation: >-
+      Instituto de Investigaciones Biotecnológicas
+      (IIBIO-CONICET) -- Escuela de Bio y Nanotecnología
+      (EByN-UNSAM)
+    orcid: 'https://orcid.org/0000-0002-8059-0201'
+  - given-names: Lionel
+    family-names: Urán Landaburu
+    email: lionel.u.l@iib.unsam.edu.ar
+    orcid: 'https://orcid.org/0000-0002-6202-9779'
+    affiliation: >-
+      Instituto de Investigaciones Biotecnológicas
+      (IIBIO-CONICET) -- Escuela de Bio y Nanotecnología
+      (EByN-UNSAM)
+  - given-names: 'Emir '
+    family-names: Salas Sarduy
+    email: esalas@iib.unsam.edu.ar
+    orcid: 'https://orcid.org/0000-0002-9709-7552'
+    affiliation: >-
+      Instituto de Investigaciones Biotecnológicas
+      (IIBIO-CONICET) -- Escuela de Bio y Nanotecnología
+      (EByN-UNSAM)
+  - affiliation: >-
+      Instituto de Investigaciones Biotecnológicas
+      (IIBIO-CONICET) -- Escuela de Bio y Nanotecnología
+      (EByN-UNSAM)
+    given-names: Fernán
+    family-names: Agüero
+    email: fernan@iib.unsam.edu.ar
+    orcid: 'https://orcid.org/0000-0003-1331-5741'
+  - name: >-
+      Instituto de Investigaciones Biotecnológicas (IIBIO),
+      Consejo Nacional de Investigaciones Científicas y
+      Técnicas (CONICET)
+    address: 25 de Mayo 1401
+    city: San Martín
+    country: AR
+    post-code: B1650HMQ
+    location: Buenos Aires
+    alias: IIBIO
+    tel: +54 11 4006-1500
+    fax: +54 11 4006-1559
+    website: >-
+      https://www.conicet.gov.ar/new_scp/detalle.php?id=27936&info_general=yes&inst=yes
+  - name: >-
+      Escuela de Bio y Nanotecnología (EByN), Universidad
+      Nacional de San Martín (UNSAM)
+    address: 25 de Mayo 1401
+    city: San Martín
+    country: AR
+    post-code: B1650HMQ
+    location: Buenos Aires
+    alias: EBYN
+    tel: +54 11 4006-1500
+    fax: +54 11 4006-1559
+    website: 'https://www.unsam.edu.ar/escuelas/ebyn/'
+identifiers:
+  - type: doi
+    value: 10.1234/COMPLETAR
+    description: ChemRxiv pre-print
+repository-code: 'https://github.com/trypanosomatics/yeast_to_tryp'
+abstract: COMPLETAR
+keywords:
+  - yeast chemogenomic profiling data
+  - cheminformatics pipeline
+  - bioinformatics pipeline
+  - neglected tropical diseases
+  - chagas disease
+license: BSD-2-Clause
+date-released: '2026-01-10'
